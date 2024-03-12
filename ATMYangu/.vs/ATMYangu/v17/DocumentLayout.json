@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick\\source\\repos\\ATMYangu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|c:\\users\\erick\\source\\repos\\atmyangu\\atmyangu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|solutionrelative:atmyangu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|c:\\users\\erick\\source\\repos\\atmyangu\\atmyangu\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|solutionrelative:atmyangu\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|c:\\users\\erick\\source\\repos\\atmyangu\\atmyangu\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|solutionrelative:atmyangu\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|c:\\users\\erick\\source\\repos\\atmyangu\\atmyangu\\atmyangu.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|solutionrelative:atmyangu\\atmyangu.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|c:\\users\\erick\\source\\repos\\atmyangu\\atmyangu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|solutionrelative:atmyangu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|c:\\users\\erick\\source\\repos\\atmyangu\\atmyangu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|solutionrelative:atmyangu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|c:\\users\\erick\\source\\repos\\atmyangu\\atmyangu\\donate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|solutionrelative:atmyangu\\donate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|c:\\users\\erick\\source\\repos\\atmyangu\\atmyangu\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|solutionrelative:atmyangu\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|c:\\users\\erick\\source\\repos\\atmyangu\\atmyangu\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCD4979C-4480-4C4A-8FF4-C9F48629027B}|ATMYangu\\ATMYangu.csproj|solutionrelative:atmyangu\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Program.cs",
+              "RelativeDocumentMoniker": "ATMYangu\\Program.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Program.cs",
+              "RelativeToolTip": "ATMYangu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:10:53.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ATMYangu",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\ATMYangu.csproj",
+              "RelativeDocumentMoniker": "ATMYangu\\ATMYangu.csproj",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\ATMYangu.csproj",
+              "RelativeToolTip": "ATMYangu\\ATMYangu.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-11T09:09:00.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Login.cs",
+              "RelativeDocumentMoniker": "ATMYangu\\Login.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Login.cs",
+              "RelativeToolTip": "ATMYangu\\Login.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAASwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:59:09.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Login.cs",
+              "RelativeDocumentMoniker": "ATMYangu\\Login.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Login.cs [Design]",
+              "RelativeToolTip": "ATMYangu\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:15:05.054Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Donate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Donate.cs",
+              "RelativeDocumentMoniker": "ATMYangu\\Donate.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Donate.cs [Design]",
+              "RelativeToolTip": "ATMYangu\\Donate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:00:28.576Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bills.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Bills.cs",
+              "RelativeDocumentMoniker": "ATMYangu\\Bills.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Bills.cs [Design]",
+              "RelativeToolTip": "ATMYangu\\Bills.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:00:19.256Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Withdraw.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Withdraw.cs",
+              "RelativeDocumentMoniker": "ATMYangu\\Withdraw.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Withdraw.cs",
+              "RelativeToolTip": "ATMYangu\\Withdraw.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:58:30.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Home.cs",
+              "RelativeDocumentMoniker": "ATMYangu\\Home.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Home.cs [Design]",
+              "RelativeToolTip": "ATMYangu\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:47:40.496Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Home.cs",
+              "RelativeDocumentMoniker": "ATMYangu\\Home.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\Home.cs",
+              "RelativeToolTip": "ATMYangu\\Home.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwDwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:45:07.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
