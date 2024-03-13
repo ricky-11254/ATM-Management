@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ruRtsJmqwJ3oE/HRzH2EyoaIqklK5JNvg/eQKYEyEhQAmQWfyRcOboSE+2QTAZfA1TAmSncdRcTnPMx5wv/Q5w==",
+  "dgSpecHash": "yEz5fBnoiU59R0KmRJXb8xlurH0PZJrkHKQGka4Ls6o2WHmqvwSV7dLWo/sfRF/vjS0W3r1gTGuCCYkPRcsTuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\ATMYangu.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\erick\\OneDrive\\Desktop\\Zetech\\BSE3.1\\BSD325\\ATMYangu\\ATMYangu\\ATMYangu\\ATMYangu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erick\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512"
+  ],
   "logs": []
 }

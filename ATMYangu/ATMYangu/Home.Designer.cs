@@ -37,8 +37,10 @@
             button1 = new Button();
             button2 = new Button();
             panel2 = new Panel();
+            label1 = new Label();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            panel2.SuspendLayout();
             SuspendLayout();
             // 
             // panel1
@@ -138,12 +140,23 @@
             // 
             // panel2
             // 
+            panel2.Controls.Add(label1);
             panel2.Dock = DockStyle.Fill;
             panel2.Location = new Point(200, 0);
             panel2.Name = "panel2";
             panel2.Size = new Size(600, 450);
             panel2.TabIndex = 1;
             panel2.Paint += panel2_Paint;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 20F);
+            label1.Location = new Point(56, 25);
+            label1.Name = "label1";
+            label1.Size = new Size(513, 74);
+            label1.TabIndex = 0;
+            label1.Text = "Welcome to ATMYangu your most reliable\r\n             ATM Mangement System";
             // 
             // Home
             // 
@@ -157,6 +170,8 @@
             Load += Home_Load;
             panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            panel2.ResumeLayout(false);
+            panel2.PerformLayout();
             ResumeLayout(false);
         }
 
@@ -170,5 +185,6 @@
         private Button button3;
         private Button button2;
         private PictureBox pictureBox1;
+        private Label label1;
     }
 }

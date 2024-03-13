@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\ATMYangu.csproj": {}
+    "C:\\Users\\erick\\OneDrive\\Desktop\\Zetech\\BSE3.1\\BSD325\\ATMYangu\\ATMYangu\\ATMYangu\\ATMYangu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\ATMYangu.csproj": {
+    "C:\\Users\\erick\\OneDrive\\Desktop\\Zetech\\BSE3.1\\BSD325\\ATMYangu\\ATMYangu\\ATMYangu\\ATMYangu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\ATMYangu.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Desktop\\Zetech\\BSE3.1\\BSD325\\ATMYangu\\ATMYangu\\ATMYangu\\ATMYangu.csproj",
         "projectName": "ATMYangu",
-        "projectPath": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\ATMYangu.csproj",
+        "projectPath": "C:\\Users\\erick\\OneDrive\\Desktop\\Zetech\\BSE3.1\\BSD325\\ATMYangu\\ATMYangu\\ATMYangu\\ATMYangu.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick\\source\\repos\\ATMYangu\\ATMYangu\\obj\\",
+        "outputPath": "C:\\Users\\erick\\OneDrive\\Desktop\\Zetech\\BSE3.1\\BSD325\\ATMYangu\\ATMYangu\\ATMYangu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ATMYangu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56a2e0e5e1a5926e58b1c555617c68074d6dafcd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ATMYangu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ATMYangu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
